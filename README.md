@@ -8,7 +8,7 @@ delete and ban message sent by channels
 </h2>
 
 <p align="center">
-<a href="https://railway.app/new/template?template=https://github.com/BrayDanXD/AntiChannelBan&envs=BOT_TOKEN%2CAPI_ID%2CAPI_HASH%2Cparse_mode"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blackwhite?style=for-the-badge&logo=railway" width="252""/</a>
+<a href="https://railway.app/new/template?template=https://github.com/hackerworldyt/AntiChannelBan&envs=BOT_TOKEN%2CAPI_ID%2CAPI_HASH%2Cparse_mode"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blackwhite?style=for-the-badge&logo=railway" width="252""/</a>
 
 ## Heroku 
 
@@ -39,7 +39,7 @@ sudo npm i -g npm
 
 pip install poetry
 
-git clone https://github.com/BrayDanXD/AntiChannelBan # before cloning fork repo and fill All wars first
+git clone https://github.com/hackerworldyt/AntiChannelBan # before cloning fork repo and fill All wars first
 
 cd AntiChannelBan
 
