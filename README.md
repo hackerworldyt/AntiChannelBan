@@ -12,7 +12,7 @@ delete and ban message sent by channels
 
 ## Heroku 
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/hackerworldyt/AntiChannelBan)
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
